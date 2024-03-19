@@ -6,21 +6,6 @@ import WrapperApp from '../components/WrapperApp.vue'
   <div>
     <WrapperApp>
 
-
-      <template #title>
-        <div class="text-center mb-20">
-          <p class="prose prose-headings:underline prose-a:text-blue-600 prose-img:rounded-xl mb-4 text-5xl">
-            Tilson Mateus
-          </p>
-
-          <p>
-            "Building Success with precision and quality"
-          </p>
-        </div>
-
-        <hr class="mb-20">
-      </template>
-
       <template #body>
         <div class="hero min-h-screen bg-base-200">
           <div class="hero-content flex-col lg:flex-row">
