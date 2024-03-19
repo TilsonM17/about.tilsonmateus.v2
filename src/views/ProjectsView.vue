@@ -1,7 +1,7 @@
 <template>
   <div>
     <p class="text-4xl block uppercase
-                border-l-8 border-transparent 
+                border-r-8 border-transparent 
                 hover:border-gray-100 
                 active:border-purple-haze 
                 focus:border-purple-haze 

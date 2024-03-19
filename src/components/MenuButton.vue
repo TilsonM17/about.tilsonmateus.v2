@@ -61,7 +61,7 @@ onMounted(() => {
                 focus:border-purple-haze 
                 transition duration-150 mb-5">Projects</RouterLink>
 
-                <RouterLink to="/about" class=" block  
+                <RouterLink to="/office" class=" block  
                 border-l-8 border-transparent 
                 hover:border-gray-100 
                 active:border-purple-haze 
