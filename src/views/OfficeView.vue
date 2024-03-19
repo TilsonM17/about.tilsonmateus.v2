@@ -16,31 +16,35 @@
     </div>
 
     <hr>
+    <div class="mt-10 mb-4">
+        <h2 class="text-4xl">Hardware</h2>
 
-    <h2 class="text-4xl mt-10 mb-4">Hardware</h2>
+        <p>
+            I don't have a luxurious, gigantic setup, but I have one that I'm proud of until now and what I have now is
+            still far from what I want. But it works for now:
+        </p>
 
-    <p>
-        I don't have a luxurious, gigantic setup, but I have one that I'm proud of until now and what I have now is
-        still far from what I want. But it works for now:
-    </p>
+        <br>
 
-    <br>
+        <p>
+            <li> The machine I use is a <strong> Asus X515 (2023, Intel® Core™ i7, 11 Geração, 8GB RAM). </strong> </li>
+            <li> The boar I use <strong> NGS Board RGB</strong>, It has a good keyboard noise, just the way I like it.
+            </li>
+            <li>Etc....</li>
+        </p>
 
-    <p>
-        <li> The machine I use is a <strong> Asus X515 (2023, Intel® Core™ i7, 11 Geração, 8GB RAM). </strong> </li>
-        <li> The boar I use <strong> NGS Board RGB</strong>, It has a good keyboard noise, just the way I like it.</li>
-        <li>Etc....</li>
-    </p>
-
-    <div class="flex justify-center my-4">
-        <img src="../assets/workspace.jpeg" width="500" height="500" alt="">
+        <div class="flex justify-center my-4">
+            <img src="../assets/workspace.jpeg" width="500" height="500" alt="">
+        </div>
     </div>
 
+    <div class="mt-10 mb-10">
+        <h2 class="text-4xl">Software</h2>
 
-    <h2 class="text-4xl mt-10 mb-4">Software</h2>
-
-    <p>
-        My OS is <span class="underline">Linux Ubuntu</span>, I use <span class="underline">VsCode</span> as my main
-        IDE, my terminal is <span class="underline">WARP</span> with <span class="underline">oh-my-zsh </span> installed
-    </p>
+        <p>
+            My OS is <span class="underline">Linux Ubuntu</span>, I use <span class="underline">VsCode</span> as my main
+            IDE, my terminal is <span class="underline">WARP</span> with <span class="underline">oh-my-zsh </span>
+            installed
+        </p>
+    </div>
 </template>

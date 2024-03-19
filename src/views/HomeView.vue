@@ -13,7 +13,8 @@ import WrapperApp from '../components/WrapperApp.vue'
             <div>
               <h1 class="text-5xl font-bold">Hi,Welcome!</h1>
 
-              <p class="py-4">I am Full Stack Developer with +5 years , specializing in working with technologies such as Laravel,
+              <p class="py-4">I am Laravel Developer with +5 years , specializing in working with technologies such as
+                Laravel,
                 Vue, Livewire, and I am always excited to take on new challenges and explore new technologies.
                 I'm based in the beautiful province of Luanda in Angola 🇦🇴.
               </p>
