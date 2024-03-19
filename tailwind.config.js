@@ -1,7 +1,17 @@
 export default {
   content: ['./index.html', './src/**/*.{js,ts,jsx,tsx,vue}', './node_modules/flowbite/**/*.js'],
   theme: {
+    container: {
+      center: true,
+      padding: {
+        DEFAULT: '1rem',
+        sm: '2rem',
+        lg: '4rem',
+        xl: '5rem',
+        '2xl': '6rem'
+      }
+    },
     extend: {}
   },
-  plugins: [require('flowbite/plugin'), require('daisyui')]
+  plugins: [require('flowbite/plugin'), require('daisyui'), require('@tailwindcss/typography')]
 }
