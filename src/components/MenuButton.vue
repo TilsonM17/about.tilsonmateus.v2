@@ -40,8 +40,33 @@ onMounted(() => {
             <!-- Items for Menu -->
 
             <nav class="menu p-6 text-2xl">
-                <RouterLink to="/" class="hover:bg-slate-950 mb-5">Home</RouterLink>
-                <RouterLink to="/about">About</RouterLink>
+                <RouterLink to="/" class=" block  
+                border-l-8 border-transparent 
+                hover:border-gray-100 
+                active:border-purple-haze 
+                focus:border-purple-haze 
+                transition duration-150 mb-5">Home</RouterLink>
+                <a href="https://tilsonmateus.com" class="
+                block  
+                border-l-8 border-transparent 
+                hover:border-gray-100 
+                active:border-purple-haze 
+                focus:border-purple-haze 
+                transition duration-150 mb-5" target="__blank">Blog</a>
+
+                <RouterLink to="/projects" class=" block  
+                border-l-8 border-transparent 
+                hover:border-gray-100 
+                active:border-purple-haze 
+                focus:border-purple-haze 
+                transition duration-150 mb-5">Projects</RouterLink>
+
+                <RouterLink to="/about" class=" block  
+                border-l-8 border-transparent 
+                hover:border-gray-100 
+                active:border-purple-haze 
+                focus:border-purple-haze 
+                transition duration-150 mb-5">My Office</RouterLink>
             </nav>
 
 
