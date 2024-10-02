@@ -6,9 +6,8 @@
 
 
     <main>
-        <div class="container mt-4 sm:max-w-5xl px-4 mx-auto md:px-8">
+        <div class="mx-9">
             <slot name="title"></slot>
-
             <slot name="body"></slot>
 
             <slot name="footer"></slot>
