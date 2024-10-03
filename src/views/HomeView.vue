@@ -5,7 +5,7 @@
       <div class="py-8 px-4 mx-auto max-w-screen-xl lg:py-16">
         <div class="grid gap-8 items-center mb-8 lg:mb-24 lg:gap-12 lg:grid-cols-12">
           <div class="col-span-6 text-center sm:mb-6 lg:text-left lg:mb-0">
-            <h1 class="text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl xl:text-6xl dark:text-white
+            <h1 class="text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl text-white
               -skew-y-12 mb-20 
               ">
               I will <span class="underline text-slate-500">transform</span> your ideas into reality.
@@ -38,10 +38,10 @@
               <div class="flex items-center pr-5 text-sm font-light text-gray-500 dark:text-gray-400">
                 <a href="https://github.com/TilsonM17" target="_blank">
                   <img src="../assets/github.svg" alt="" class="mr-2 w-4 h-4">
-                  <span class="mr-2 font-normal text-gray-900 dark:text-white">Github</span>
+                  <span class="mr-2 font-normal text-white">Github</span>
                 </a>
               </div>
-              <div class="items-center pl-5 text-sm text-gray-900 dark:text-white">
+              <div class="items-center pl-5 text-sm text-white">
                 <a href="https://www.linkedin.com/in/tilsonmateus/" target="_blank">
                   <img src="../assets/linkedin.png" alt="" class="mr-2 w-4 h-4">
                   Linkdin
