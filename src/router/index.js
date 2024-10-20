@@ -15,12 +15,6 @@ const router = createRouter({
       path: '/projects',
       name: 'projects',
       component: ProjectsView
-    },
-
-    {
-      path: '/office',
-      name: 'office',
-      component: OfficeView
     }
   ]
 })

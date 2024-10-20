@@ -22,7 +22,7 @@
               improvement of efficiency in complex systems.
             </p>
             <a href=""></a>
-            <a class="text-violet-700 font-bold inline-flex" href="mailto:hello@tilsonmateus.com" target="_blank">
+            <a class="text-violet-700 font-bold inline-flex" href="https://cal.com/tilson-mateus-v9oyuq" target="_blank">
               <p>
                 Let's talk!!
               </p>
@@ -52,8 +52,8 @@
 
           </div>
           <div class="col-span-6">
-            <img class="mx-auto w-full max-w-xl h-64 rounded-lg sm:h-96 hover:scale-125 transition duration-150"
-              src="../assets/logo_tilson.png" title="My Profile" frameborder="0"
+            <img class="mx-auto max-w-xl rounded-lg sm:h-96 hover:scale-125 transition duration-150"
+              src="../assets/ex.png" title="My Profile" frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" />
           </div>
         </div>
