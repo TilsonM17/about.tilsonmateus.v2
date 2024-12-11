@@ -13,5 +13,5 @@ export default {
     },
     extend: {}
   },
-  plugins: [require('flowbite/plugin'), require('daisyui'), require('@tailwindcss/typography')]
+  plugins: [require('@tailwindcss/typography')]
 }
