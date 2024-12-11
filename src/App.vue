@@ -11,16 +11,17 @@
       <div class="container max-w-screen-xl mx-auto px-4">
 
         <nav class="flex items-center justify-between mb-40">
-          <img src="./assets/image/navbar-logo.png" alt="Logo">
+          <img src="./assets/logo_tilson.png" alt="Logo" class="w-12">
 
-          <button
-            class="px-7 py-3 md:px-9 md:py-4 bg-white font-medium md:font-semibold text-gray-700 text-md rounded-md hover:bg-gray-700 hover:text-white transition ease-linear duration-500">Get
-            my CV</button>
+          <a target="_blank" href="https://www.linkedin.com/in/tilsonmateus/"
+            class="px-7 py-3 md:px-9 md:py-4 bg-white font-medium md:font-semibold text-gray-700 text-md rounded-md hover:bg-gray-700 hover:text-white transition ease-linear duration-500">
+            My Linkdin
+          </a>
         </nav>
 
         <div class="text-center">
           <div class="flex justify-center mb-16">
-            <img src="./assets/image/home-img.png" alt="Image">
+            <img src="./assets/ex.png" alt="Image" class="rounded-full">
           </div>
 
           <h6 class="font-medium text-gray-600 text-lg md:text-2xl uppercase mb-8">Tilson Mateus</h6>
@@ -51,8 +52,9 @@
 
             <h4 class="font-medium text-gray-700 text-lg mb-4">High experience</h4>
 
-            <p class="font-normal text-gray-500 text-md">Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit,
-              sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.</p>
+            <p class="font-normal text-gray-500 text-md">With more than 5 years of experience, I have built various
+              types of software, and participated in the software life cycle. From E-commerce to AI integrations. I can
+              work in every side for you project: back, front, and devops</p>
           </div>
 
           <div class="bg-gray-50 px-8 py-10 rounded-md">
@@ -60,10 +62,10 @@
               <i data-feather="codesandbox"></i>
             </div>
 
-            <h4 class="font-medium text-gray-700 text-lg mb-4">Useful sandboxes</h4>
-
-            <p class="font-normal text-gray-500 text-md">Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit,
-              sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.</p>
+            <h4 class="font-medium text-gray-700 text-lg mb-4">Flexible Journey</h4>
+            <p class="font-normal text-gray-500 text-md">
+              Available to act according to the demands of your project, whatever your need, I am the solution.
+            </p>
           </div>
 
           <div class="bg-gray-50 px-8 py-10 rounded-md">
@@ -73,8 +75,8 @@
 
             <h4 class="font-medium text-gray-700 text-lg mb-4">Success side projects</h4>
 
-            <p class="font-normal text-gray-500 text-md">Lorem ipsum dolor sit amet, consectetur <br> adipiscing elit,
-              sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.</p>
+            <p class="font-normal text-gray-500 text-md">I projected and build many side projects, some this SaaS is a
+              E-card.</p>
           </div>
         </div>
 
@@ -102,10 +104,15 @@
               <span class="w-28 h-0.5 bg-gray-300 mt-5"></span>
 
               <div>
-                <h1 class="font-normal text-gray-700 text-3xl md:text-4xl mb-5">Demo API Generator</h1>
+                <h1 class="font-normal text-blue-700 text-3xl md:text-4xl mb-5">
+                  <a href="https://emer-card.com">
+                    E-card
+                  </a>
+                </h1>
 
-                <p class="font-normal text-gray-500 text-sm md:text-base">A dummy data free and documented API generator
-                  to facilitate <br> the process of testing the front-end portion of projects.</p>
+                <p class="font-normal text-gray-500 text-sm md:text-base">
+                  Store your emergency informations and be safe when the things go wrong, let's yours emergency contacts
+                  know when something go wrong.</p>
               </div>
             </div>
 
@@ -115,10 +122,13 @@
               <span class="w-28 h-0.5 bg-gray-300 mt-5"></span>
 
               <div>
-                <h1 class="font-normal text-gray-700 text-3xl md:text-4xl mb-5">Demo API Generator</h1>
+                <h1 class="font-normal text-blue-700 text-3xl md:text-4xl mb-5">
+                  <a href="https://github.com/TilsonM17/commit-lint">
+                    Commit Lint
+                  </a>
+                </h1>
 
-                <p class="font-normal text-gray-500 text-sm md:text-base">A dummy data free and documented API generator
-                  to facilitate <br> the process of testing the front-end portion of projects.</p>
+                <p class="font-normal text-gray-500 text-sm md:text-base">Shell script for lint git commit command.</p>
               </div>
             </div>
 
@@ -128,10 +138,14 @@
               <span class="w-28 h-0.5 bg-gray-300 mt-5"></span>
 
               <div>
-                <h1 class="font-normal text-gray-700 text-3xl md:text-4xl mb-5">Demo API Generator</h1>
+                <h1 class="font-normal text-blue-700 text-3xl md:text-4xl mb-5">
+                  <a href="https://github.com/TilsonM17/laravel-youtube-client">
+                    Youtube Client
+                  </a>
+                </h1>
 
-                <p class="font-normal text-gray-500 text-sm md:text-base">A dummy data free and documented API generator
-                  to facilitate <br> the process of testing the front-end portion of projects.</p>
+                <p class="font-normal text-gray-500 text-sm md:text-base">A @laravel package to interact with
+                  Youtube api.</p>
               </div>
             </div>
           </div>
@@ -141,7 +155,7 @@
 
     </section>
 
-    <section class="py-10 md:py-16">
+    <!-- <section class="py-10 md:py-16">
 
       <div class="container max-w-screen-xl mx-auto px-4">
 
@@ -225,26 +239,25 @@
 
       </div>
 
-    </section>
+    </section> -->
 
     <section class="py-10 md:py-16">
 
       <div class="container max-w-screen-xl mx-auto px-4">
 
         <div class="text-center">
-          <h1 class="font-normal text-gray-300 text-3xl md:text-6xl lg:text-7xl mb-20 md:mb-32 lg:mb-48">Please do not
-            measure your skills in <br> percentages!</h1>
+          <!-- <h1 class="font-normal text-gray-300 text-3xl md:text-6xl lg:text-7xl mb-20 md:mb-32 lg:mb-48">Please do not
+            measure your skills in <br> percentages!</h1> -->
 
           <p class="font-medium text-gray-700 text-xs md:text-base">In my many years of experience, I use @laravel for
-            backend projects and @vuejs for <br> front-end projects. I’m an avid programmer, so I create designs based
-            on the <br> weekend @figmadesign.</p>
+            backend projects and @vuejs or @livewire for <br> front-end projects.</p>
         </div>
 
       </div>
 
     </section>
 
-    <section class="py-10 md:py-16">
+    <!-- <section class="py-10 md:py-16">
 
       <div class="container max-w-screen-xl mx-auto px-4">
 
@@ -303,9 +316,9 @@
 
       </div>
 
-    </section>
+    </section> -->
 
-    <section class="py-10 md:py-16">
+    <!-- <section class="py-10 md:py-16">
 
       <div class="container max-w-screen-xl mx-auto px-4">
 
@@ -330,9 +343,9 @@
 
       </div>
 
-    </section>
+    </section> -->
 
-    <section class="py-10 md:py-16">
+    <!-- <section class="py-10 md:py-16">
 
       <div class="container max-w-screen-xl mx-auto px-4">
 
@@ -399,24 +412,23 @@
 
       </div>
 
-    </section>
+    </section> -->
 
     <footer class="py-10 md:py-16 mb-20 md:mb-40 lg::mb-52">
 
       <div class="container max-w-screen-xl mx-auto px-4">
 
         <div class="text-center">
-          <h1 class="font-medium text-gray-700 text-4xl md:text-5xl mb-5">Testimonial</h1>
+          <h1 class="font-medium text-gray-700 text-4xl md:text-5xl mb-5">Outher informations</h1>
 
-          <p class="font-normal text-gray-400 text-md md:text-lg mb-20">I’m not currently taking on new client work but
-            feel free to contact me for any <br> other inquiries.</p>
+          <p class="font-normal text-gray-400 text-md md:text-lg mb-20">Currently I make videos in Youtube and I am Tech
+            Speaker, and write in my tech blog.</p>
 
           <div class="flex items-center justify-center space-x-8">
-            <a href="#"
-              class="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500">
-              <i data-feather="twitter"
-                class="text-gray-500 hover:text-gray-800 transition ease-in-out duration-500"></i>
-            </a>
+            <img src="./assets/image/speacker.jpg" alt="My talking in AOFest2024">
+            <span>
+              My talking in AOFest2024
+            </span>
 
             <a href="#"
               class="w-16 h-16 flex items-center justify-center rounded-full hover:bg-gray-200 transition ease-in-out duration-500">
