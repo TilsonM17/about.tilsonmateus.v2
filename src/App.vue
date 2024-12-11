@@ -1,5 +1,5 @@
 <script>
-
+  feather.replace()
 </script>
 
 <template>
